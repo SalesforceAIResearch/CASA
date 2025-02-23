@@ -1,6 +1,6 @@
 ## 🏠 CASA: Evaluating Cultural and Social Awareness of LLM Web Agents (NAACL-Findings 2025)
 
-<b><a href="https://haoyiq114.github.io/">Haoyi Qiu</a>, <a href="https://alex-fabbri.github.io/">Alexander R. Fabbri</a>, <a href="">Divyansh Agarwal</a>, <a href="https://khuangaf.github.io/">Kung-Hsiang Huang</a>, <a href="https://shftan.github.io/">Sarah Tan</a>, <a href="https://violetpeng.github.io/">Nanyun Peng</a>, <a href="https://jasonwu0731.github.io/">Chien-Sheng Wu</a></b>
+<b><a href="https://haoyiq114.github.io/">Haoyi Qiu</a>, <a href="https://alex-fabbri.github.io/">Alexander R. Fabbri*</a>, <a href="">Divyansh Agarwal*</a>, <a href="https://khuangaf.github.io/">Kung-Hsiang Huang*</a>, <a href="https://shftan.github.io/">Sarah Tan</a>, <a href="https://violetpeng.github.io/">Nanyun Peng</a>, <a href="https://jasonwu0731.github.io/">Chien-Sheng Wu</a></b>
 </div>
 <div align="center">
 University of California, Los Angeles
